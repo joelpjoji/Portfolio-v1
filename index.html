@@ -1,0 +1,33 @@
+
+<html> 
+  <head> 
+    <title>Joel P Joji</title> 
+    <meta name="keywords" content="Joel P Joji, Joel, freelance, designer, android, developer, illustrator, animation, javascript, development, ktu, expression engine, wordpress, after effects, adobe, photoshop, html5" />
+    <meta name="description" content="Joel P Joji is a software engineer specializing in building exceptional android applications and websites ">
+    <meta name="author" content="Joel P Joji" />
+    <link rel="icon" href="/image/logo.png" type="image/icon type">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+  </head> 
+  <body> 
+    <script type="text/javascript" src="/js/index.js"> 
+    </script> 
+    <div id="console"></div> 
+    <div class="cursor"></div>
+<script>
+    const cursor = document.querySelector('.cursor');
+    document.addEventListener('mousemove', e => {
+    cursor.setAttribute("style", "top: " + (e.pageY - 10) + "px; left: " + (e.pageX - 10) + "px;");
+    });
+
+    document.addEventListener('click', () => {
+    cursor.classList.add("expand");
+
+    setTimeout(() => {
+    cursor.classList.remove("expand");
+        }, 500);
+});
+</script>
+    
+  </body> 
+</html> 
