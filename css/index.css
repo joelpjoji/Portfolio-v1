@@ -4,8 +4,118 @@ body {
 }.inner-border::-webkit-scrollbar {
 	display: none;
 	font-family:Ps;
-
 }
+	.cursor {
+		width: 20px;
+		height: 20px;
+		border: 1px solid white;
+		border-radius: 50%;
+		position: absolute;
+		-webkit-transition-duration: 0ms;
+				transition-duration: 0ms;
+		-webkit-transition-timing-function: ease-out;
+				transition-timing-function: ease-out;
+		-webkit-animation: cursorAnim .5s infinite alternate;
+				animation: cursorAnim .5s infinite alternate;
+		pointer-events: none;
+	  }
+	  
+	  .cursor::after {
+		content: "";
+		width: 20px;
+		height: 20px;
+		position: absolute;
+		border: 8px solid gray;
+		border-radius: 50%;
+		opacity: .5;
+		top: -8px;
+		left: -8px;
+		-webkit-animation: cursorAnim2 .5s infinite alternate;
+				animation: cursorAnim2 .5s infinite alternate;
+	  }
+	  
+	  @-webkit-keyframes cursorAnim {
+		from {
+		  -webkit-transform: scale(1);
+				  transform: scale(1);
+		}
+		to {
+		  -webkit-transform: scale(0.7);
+				  transform: scale(0.7);
+		}
+	  }
+	  
+	  @keyframes cursorAnim {
+		from {
+		  -webkit-transform: scale(1);
+				  transform: scale(1);
+		}
+		to {
+		  -webkit-transform: scale(0.7);
+				  transform: scale(0.7);
+		}
+	  }
+	  
+	  @-webkit-keyframes cursorAnim2 {
+		from {
+		  -webkit-transform: scale(1);
+				  transform: scale(1);
+		}
+		to {
+		  -webkit-transform: scale(0.4);
+				  transform: scale(0.4);
+		}
+	  }
+	  
+	  @keyframes cursorAnim2 {
+		from {
+		  -webkit-transform: scale(1);
+				  transform: scale(1);
+		}
+		to {
+		  -webkit-transform: scale(0.4);
+				  transform: scale(0.4);
+		}
+	  }
+	  
+	  @-webkit-keyframes cursorAnim3 {
+		0% {
+		  -webkit-transform: scale(1);
+				  transform: scale(1);
+		}
+		50% {
+		  -webkit-transform: scale(3);
+				  transform: scale(3);
+		}
+		100% {
+		  -webkit-transform: scale(1);
+				  transform: scale(1);
+		  opacity: 0;
+		}
+	  }
+	  
+	  @keyframes cursorAnim3 {
+		0% {
+		  -webkit-transform: scale(1);
+				  transform: scale(1);
+		}
+		50% {
+		  -webkit-transform: scale(3);
+				  transform: scale(3);
+		}
+		100% {
+		  -webkit-transform: scale(1);
+				  transform: scale(1);
+		  opacity: 0;
+		}
+	  }
+	  
+	  .expand {
+		-webkit-animation: cursorAnim3 .5s forwards;
+				animation: cursorAnim3 .5s forwards;
+		border: 1px solid red;
+	  }
+
 @font-face {
     font-family: "Ps";
     src: url(/font/consola.ttf)
@@ -16,7 +126,7 @@ body {
 	width:750px;
 	margin-left:auto;
 	margin-right:auto;
-	margin-top:90;
+	margin-top:80;
 	font-size:14px;
 	overflow: hidden !important;
 	font-family:Ps;
@@ -35,6 +145,11 @@ a {
 
 #a {
 	color: #0f0;
+	font-family:Ps;
+
+}
+#in {
+	color: #8a3ab9;
 	font-family:Ps;
 
 }
@@ -98,114 +213,3 @@ a {
     	50% { color:  #0f0; }
     	99% { color: black; }
 }
-
-.cursor {
-	width: 20px;
-	height: 20px;
-	border: 1px solid white;
-	border-radius: 50%;
-	position: absolute;
-	-webkit-transition-duration: 0ms;
-			transition-duration: 0ms;
-	-webkit-transition-timing-function: ease-out;
-			transition-timing-function: ease-out;
-	-webkit-animation: cursorAnim .5s infinite alternate;
-			animation: cursorAnim .5s infinite alternate;
-	pointer-events: none;
-  }
-  
-  .cursor::after {
-	content: "";
-	width: 20px;
-	height: 20px;
-	position: absolute;
-	border: 8px solid gray;
-	border-radius: 50%;
-	opacity: .5;
-	top: -8px;
-	left: -8px;
-	-webkit-animation: cursorAnim2 .5s infinite alternate;
-			animation: cursorAnim2 .5s infinite alternate;
-  }
-  
-  @-webkit-keyframes cursorAnim {
-	from {
-	  -webkit-transform: scale(1);
-			  transform: scale(1);
-	}
-	to {
-	  -webkit-transform: scale(0.7);
-			  transform: scale(0.7);
-	}
-  }
-  
-  @keyframes cursorAnim {
-	from {
-	  -webkit-transform: scale(1);
-			  transform: scale(1);
-	}
-	to {
-	  -webkit-transform: scale(0.7);
-			  transform: scale(0.7);
-	}
-  }
-  
-  @-webkit-keyframes cursorAnim2 {
-	from {
-	  -webkit-transform: scale(1);
-			  transform: scale(1);
-	}
-	to {
-	  -webkit-transform: scale(0.4);
-			  transform: scale(0.4);
-	}
-  }
-  
-  @keyframes cursorAnim2 {
-	from {
-	  -webkit-transform: scale(1);
-			  transform: scale(1);
-	}
-	to {
-	  -webkit-transform: scale(0.4);
-			  transform: scale(0.4);
-	}
-  }
-  
-  @-webkit-keyframes cursorAnim3 {
-	0% {
-	  -webkit-transform: scale(1);
-			  transform: scale(1);
-	}
-	50% {
-	  -webkit-transform: scale(3);
-			  transform: scale(3);
-	}
-	100% {
-	  -webkit-transform: scale(1);
-			  transform: scale(1);
-	  opacity: 0;
-	}
-  }
-  
-  @keyframes cursorAnim3 {
-	0% {
-	  -webkit-transform: scale(1);
-			  transform: scale(1);
-	}
-	50% {
-	  -webkit-transform: scale(3);
-			  transform: scale(3);
-	}
-	100% {
-	  -webkit-transform: scale(1);
-			  transform: scale(1);
-	  opacity: 0;
-	}
-  }
-  
-  .expand {
-	-webkit-animation: cursorAnim3 .5s forwards;
-			animation: cursorAnim3 .5s forwards;
-	border: 1px solid red;
-  }

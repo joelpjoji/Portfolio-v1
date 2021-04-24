@@ -1,20 +1,15 @@
 <span id="a">joel@linux-machine</span>:<span id="b">~</span><span id="c">$</span> cd My_Folder/<!-- kjsdfhkjdhsfkjdshfkj -->Profile
 <span id="a">joel@linux-machine</span>:<span id="b">~</span><span id="c">$</span> ls<!-- kjsdfhkjdhsfkjdshfkj -->
-<link href="link">Backups</a>   <link href="link">Certificates</a>   <link href="link">Documents</a>  
-<link href="link">about_me.txt</a>   <a href="https://drive.google.com/uc?id=1WNFNUs5UiWdo7x3mDjXXJWhrYhyT06Rn&export=download" target="_blank">Resume.pdf</a>  <link href="link">CV.pdf</a>   <link href="link">Profile_Pic.jpg</a>   
-<span id="a">joel@linux-machine</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/><br/>
-Hey there, My name is "<span id="k">Joel P Joji</span>" <!-- sjkfhskjf -->
-
+<link href="link">Backups</a>    <link href="link">Certificates</a>    <link href="link">Documents </a>  
+<link href="link">about_me.txt</a>   <a href="https://drive.google.com/uc?id=1WNFNUs5UiWdo7x3mDjXXJWhrYhyT06Rn&export=download" target="_blank">Resume.pdf</a>  <link href="link">CV.pdf</a>   <a id="in" href="https://www.instagram.com/joeykuttan_/" target="_blank">Profile_Pic.jpg</a>   
+<span id="a">joel@linux-machine</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/><br/>Hey there, My name is "<span id="k">Joel P Joji</span>" <!-- sjkfhskjf -->
 <p>This is my Website, Duhh!  well not much but WYSIWYG </p>
 I live in India  -- where things are NOT looking so good !!😂<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I am a Junior in the Albertian Institute of Science and Technology at APJ Abdul Kalam Technological University pursuing an undergraduate degree.
-I am majoring in Computer Science, with intent to double major in same</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>I am interested in exploring the fields of Software Engineering, Full-Stack Development, Data Science, and Machine Learning, and I am open to opportunities for the same.
-<br><br>I've done quite some projects, here's a link to my <a id="b" href="https://github.com/joelpjoji"> Github </a>Profile and  <a id="l" href="https://linkedin.com/in/joelpjoji"> linkedin</a>
-Connect with me ❤️</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj --> 
-<p>You can View my <a href="https://drive.google.com/file/d/1WNFNUs5UiWdo7x3mDjXXJWhrYhyT06Rn/view?usp=sharing" target="_blank">Resume.pdf</a> here 👈 <br>
+I am majoring in Computer Science, with intent to double major in same</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --><p>I am interested in exploring the fields of Software Engineering, Full-Stack Development, Data Science, and Machine Learning, and I am open to opportunities for the same.
+<br><br>I've done quite some projects, here's a link to my <a id="b" href="https://github.com/joelpjoji" target="_blank"> Github </a>Profile and  <a id="l" href="https://linkedin.com/in/joelpjoji" target="_blank"> linkedin</a>
+Connect with me ❤️</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj --> <p>You can View my <a href="https://drive.google.com/uc?id=1WNFNUs5UiWdo7x3mDjXXJWhrYhyT06Rn&export=download" target="_blank">Resume.pdf</a> here 👈 <br>
 
-You can also contact me by <a id="gm" href="mailto:joelpjoji1222@gmail.com">E</a><a id="ma" href="mailto:joelpjoji1222@gmail.com">m</a><a id="ai" href="mailto:joelpjoji1222@gmail.com">a</a><a id="il" href="mailto:joelpjoji1222@gmail.com">i</a><a id="lg" href="mailto:joelpjoji1222@gmail.com">l</a>
-<br>
-Have a Good Day ✨
+You can also contact me by <a id="gm" href="mailto:joelpjoji1222@gmail.com" target="_blank">E</a><a id="ma" href="mailto:joelpjoji1222@gmail.com" target="_blank">m</a><a id="ai" href="mailto:joelpjoji1222@gmail.com" target="_blank">a</a><a id="il" href="mailto:joelpjoji1222@gmail.com" target="_blank">i</a><a id="lg" href="mailto:joelpjoji1222@gmail.com" target="_blank">l</a>
+<br>Have a Good Day ✨<br>
 <span id="a">joel@linux-machine</span>:<span id="b">~</span> 
