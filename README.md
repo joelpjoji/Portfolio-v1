@@ -3,7 +3,7 @@
   <h1 align="center">⚡️ Developer's Portfolio ✨</h1>
 
   <p align="center">
-    It is a Terminal based Website/Portfolio for Developers template hosted in Firebase, built to showcase my recent projects. Site URL / Demo: 
+    It is a Terminal based Website/Portfolio for Developers template hosted in Firebase, built to showcase my recent projects.<br /> Site URL / Demo: 
     <a href="https://www.joelpjoji.tk">www.joelpjoji.tk</a>
     <br />
    <br />
@@ -14,7 +14,7 @@
     <a href="https://github.com/joelpjoji/Portfolio-Website/issues">Request Feature</a>
   </p>
 </p>
-<img src="https://github.com/joelpjoji/Portfolio-Website/blob/master/image/site.gif" )
+<img src="https://github.com/joelpjoji/Portfolio-Website/blob/master/image/site.gif" ) />
 
 ## Prerequisites 🍪
 
@@ -63,6 +63,33 @@ I highly recommend to use [Firebase](https://firebase.google.com/) to achieve th
 
 Facing issues? Feel free to contact at joelpjoji1222@gmail.com.
 
+
 ## Contributing 🙌
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Own Branch 
+3. Commit your Changes 
+4. Push to the Branch 
+
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Joel P Joji - [@joelpjoji](https://twitter.com/joelpjoji) - joelpjoji1222@example.com
+
+Project Link: [https://github.com/joelpjoji/Rental-prime](https://github.com/joelpjoji/Portfolio-Website)
+
+If You think this Good , Follow me Or Star/Fork this Repo or do both :) ( it wont hurt )
