@@ -14,7 +14,7 @@
     <a href="https://github.com/joelpjoji/Portfolio-Website/issues">Request Feature</a>
   </p>
 </p>
-[![Site preview](/image/site.gif)](https://www.joelpjoji.tk/)
+[![Site preview](https://github.com/joelpjoji/Portfolio-Website/blob/master/image/site.gif)
 
 ## Prerequisites 🍪
 
