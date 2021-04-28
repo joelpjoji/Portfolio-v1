@@ -26,7 +26,7 @@ From your command line, first clone this Repo:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/joelpjoji/Portfolio-Website
+$ git clone https://github.com/joelpjoji/Portfolio-Website or you could just download the latest Releases 
 
 # Go into the repository
 $ cd Portfolio-Website
