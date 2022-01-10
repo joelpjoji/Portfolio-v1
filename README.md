@@ -4,7 +4,7 @@
 
   <p align="center">
     It is a Terminal based Website/Portfolio for Developers template hosted in Firebase, built to showcase my recent projects.<br /> Site URL / Demo: 
-    <a href="https://www.joelpjoji.tk">www.joelpjoji.tk</a>
+    <a href="https://www.joelpjoji.tk">https://joelpjoji.github.io/Portfolio-v1/</a>
     <br />
    <br />
     <a href="https:/www.joelpjoji.tk">About Me</a>
